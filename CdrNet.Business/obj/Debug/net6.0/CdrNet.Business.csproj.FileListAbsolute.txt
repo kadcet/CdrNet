@@ -1,0 +1,15 @@
+C:\Users\KADIR\source\repos\Coder\CdrNet\CdrNet.Business\bin\Debug\net6.0\CdrNet.Business.deps.json
+C:\Users\KADIR\source\repos\Coder\CdrNet\CdrNet.Business\bin\Debug\net6.0\CdrNet.Business.dll
+C:\Users\KADIR\source\repos\Coder\CdrNet\CdrNet.Business\bin\Debug\net6.0\CdrNet.Business.pdb
+C:\Users\KADIR\source\repos\Coder\CdrNet\CdrNet.Business\bin\Debug\net6.0\CdrNet.Data.Txt.dll
+C:\Users\KADIR\source\repos\Coder\CdrNet\CdrNet.Business\bin\Debug\net6.0\CdrNet.Data.Txt.pdb
+C:\Users\KADIR\source\repos\Coder\CdrNet\CdrNet.Business\obj\Debug\net6.0\CdrNet.Business.csproj.AssemblyReference.cache
+C:\Users\KADIR\source\repos\Coder\CdrNet\CdrNet.Business\obj\Debug\net6.0\CdrNet.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KADIR\source\repos\Coder\CdrNet\CdrNet.Business\obj\Debug\net6.0\CdrNet.Business.AssemblyInfoInputs.cache
+C:\Users\KADIR\source\repos\Coder\CdrNet\CdrNet.Business\obj\Debug\net6.0\CdrNet.Business.AssemblyInfo.cs
+C:\Users\KADIR\source\repos\Coder\CdrNet\CdrNet.Business\obj\Debug\net6.0\CdrNet.Business.csproj.CoreCompileInputs.cache
+C:\Users\KADIR\source\repos\Coder\CdrNet\CdrNet.Business\obj\Debug\net6.0\CdrNet.Business.csproj.CopyComplete
+C:\Users\KADIR\source\repos\Coder\CdrNet\CdrNet.Business\obj\Debug\net6.0\CdrNet.Business.dll
+C:\Users\KADIR\source\repos\Coder\CdrNet\CdrNet.Business\obj\Debug\net6.0\refint\CdrNet.Business.dll
+C:\Users\KADIR\source\repos\Coder\CdrNet\CdrNet.Business\obj\Debug\net6.0\CdrNet.Business.pdb
+C:\Users\KADIR\source\repos\Coder\CdrNet\CdrNet.Business\obj\Debug\net6.0\ref\CdrNet.Business.dll

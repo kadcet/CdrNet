@@ -1,0 +1,12 @@
+C:\Users\KADIR\source\repos\Coder\CdrNet\CdrNet.Data.Txt\bin\Debug\net6.0\CdrNet.Data.Txt.deps.json
+C:\Users\KADIR\source\repos\Coder\CdrNet\CdrNet.Data.Txt\bin\Debug\net6.0\CdrNet.Data.Txt.dll
+C:\Users\KADIR\source\repos\Coder\CdrNet\CdrNet.Data.Txt\bin\Debug\net6.0\CdrNet.Data.Txt.pdb
+C:\Users\KADIR\source\repos\Coder\CdrNet\CdrNet.Data.Txt\obj\Debug\net6.0\CdrNet.Data.Txt.csproj.AssemblyReference.cache
+C:\Users\KADIR\source\repos\Coder\CdrNet\CdrNet.Data.Txt\obj\Debug\net6.0\CdrNet.Data.Txt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KADIR\source\repos\Coder\CdrNet\CdrNet.Data.Txt\obj\Debug\net6.0\CdrNet.Data.Txt.AssemblyInfoInputs.cache
+C:\Users\KADIR\source\repos\Coder\CdrNet\CdrNet.Data.Txt\obj\Debug\net6.0\CdrNet.Data.Txt.AssemblyInfo.cs
+C:\Users\KADIR\source\repos\Coder\CdrNet\CdrNet.Data.Txt\obj\Debug\net6.0\CdrNet.Data.Txt.csproj.CoreCompileInputs.cache
+C:\Users\KADIR\source\repos\Coder\CdrNet\CdrNet.Data.Txt\obj\Debug\net6.0\CdrNet.Data.Txt.dll
+C:\Users\KADIR\source\repos\Coder\CdrNet\CdrNet.Data.Txt\obj\Debug\net6.0\refint\CdrNet.Data.Txt.dll
+C:\Users\KADIR\source\repos\Coder\CdrNet\CdrNet.Data.Txt\obj\Debug\net6.0\CdrNet.Data.Txt.pdb
+C:\Users\KADIR\source\repos\Coder\CdrNet\CdrNet.Data.Txt\obj\Debug\net6.0\ref\CdrNet.Data.Txt.dll
